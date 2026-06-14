@@ -1,0 +1,32 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment variables
+.env
+
+# Model files (large binary)
+Model/*.pt
+Model/*.pth
+Model/*.h5
+Model/*.onnx
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Distribution
+dist/
+build/
+*.egg-info/
