@@ -11,12 +11,6 @@ __pycache__/
 # Environment variables
 .env
 
-# Model files (large binary)
-Model/*.pt
-Model/*.pth
-Model/*.h5
-Model/*.onnx
-
 # IDE
 .vscode/
 .idea/
